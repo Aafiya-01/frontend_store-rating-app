@@ -26,13 +26,13 @@ registered on this platform
 
 ## About The Project
 
-This project was done according to the requirements in the challenge given in the coding challenge section.
+This project was done according to the requirements in the FullStack Intern Coding Challenge by Roxiler
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Backend
 
-Find backend code here: [Github](https://github.com/RajathRao2000/backend_store-rating-app)
+Find backend code here: [Github](https://github.com/Aafiya-01/backend_store-rating-app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,7 +94,7 @@ Find backend code here: [Github](https://github.com/RajathRao2000/backend_store-
 ### Tech Stack
 
 - **Backend:** Any NodeJs-based backend framework
-- **Database:** Any non-relational/relational database
+- **Database:** MongoDB
 - **Frontend:** Any framework of React
 
 ### Requirement
