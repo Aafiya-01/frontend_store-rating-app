@@ -15,6 +15,7 @@ registered on this platform
     <br /> -->
     <br />
     <a href="https://store-rating-app-frontend.vercel.app/sign-in">View Demo</a>
+    <br />
     <a href="http://localhost:5173/sign-in">Locally hosted Demo</a>
     <!-- ·
     <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
