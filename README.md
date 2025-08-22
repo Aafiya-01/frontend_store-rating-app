@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/RajathRao2000/store-rating-app-frontend">
-    <img src="public/store3d.jpg" alt="Logo" width="100" height="80">
+  <a href="https://github.com/Aafiya-01/frontend_store-rating-app">
+    <img src="public/logo.svg" alt="Logo" width="100" height="80">
   </a>
 
 <h3 align="center">Store Rating WebApp</h3>
